@@ -1,59 +1,190 @@
-<!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sharath%20Gowda%20GR&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20DevOps%20Specialist%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sharath%20Gowda%20GR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20DevOps%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18)
 
-## 💫 About Me:
-🎓 **Student @ PES University** – Top 2% in KCET, admitted through merit  
-🏆 **Achievements**:
-- **Top 7** in *Kalpana Flagship Hackathon* (80+ participants)  
-- **Top 2** in *College Bootstrap Hackathon* (20+ teams, built real-world solution in 3 hrs)  
-- Participated in **12hr ML Workshop**, **DevOps on AWS Cloud**, and **HackerRank DSA Problem Solving** challenges  
+</div>
 
-💡 **Current Focus**: Deep diving into the **AI world**, mastering **ML frameworks**, and contributing to real-world problems  
-🎯 **Fun Fact**: While everyone was doing PUC, I jumped straight into an **Engineering Diploma** because I wanted to truly understand **how computers work**. Now pursuing **CSE** in one of Karnataka’s top 3 colleges.  
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Deep+Diving+into+AI+World;Building+Real-World+AI+Solutions;MERN+%7C+DevOps+%7C+ML+%7C+Computer+Vision)](https://git.io/typing-svg)
 
----
-
-## 🚀 My Projects:
-- **Work-Mithra** – Platform for non-tech people to build a portfolio & showcase skills  
-- **CCFD** – [Short description or leave as is if confidential]  
-- **ExploreWorld** – Discover and explore tourist places around the world  
-- **Gesture Control** – Control Windows completely with hand gestures, no touch  
-- **Voice Assistant** – Smart voice-controlled automation tool  
+</div>
 
 ---
 
-## 🛠 Skills & Tools:
-**Languages:** Java, Python, C, Verilog  
-**Frameworks/Libraries:** MERN Stack, React.js, Next.js, TensorFlow, PyTorch, Keras, OpenCV, HuggingFace, Scikit-learn  
-**Tools & Platforms:** AWS, Docker, Cisco Packet Tracer, N8N, VS Code, Iverilog, Flash 8.0, Scratch, Virtual Machines  
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+🎓 **Student @ PES University** – Top 2% in KCET, admitted through Merit  
+🏆 **Achievements:**
+- **Top 7** – Kalpana Flagship Hackathon (80+ participants)  
+- **Top 2** – Bootstrap Hackathon (20+ teams, built real-world solution in 3 hrs)  
+- ML 12hr Workshop | DevOps on AWS Cloud | HackerRank DSA Problem Solving  
+
+💡 **Current Focus:** Learning advanced ML frameworks, contributing to impactful AI projects  
+🎯 **Fun Fact:** Skipped PUC to pursue an **Engineering Diploma** just to understand *how computers really work*  
+🎨 **Hobbies:** Artist who loves drawing anime characters & a strong design thinker  
 
 ---
 
-## 🎨 Hobbies:
-🖌 Artist – Love drawing anime characters  
-💡 Creative thinker & design enthusiast  
+## 💡 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 💼 Work-Mithra
+*Portfolio Platform for Non-Tech People*
+
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="250"/>
+
+**Impact:**
+- Empowers non-tech individuals to showcase skills  
+- Helps connect them to real job opportunities
+
+</td>
+<td width="50%" align="center">
+
+### 🌍 ExploreWorld
+*Travel Discovery Platform*
+
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
+
+**Impact:**
+- Discover tourist places worldwide  
+- Plan and explore destinations easily  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🖐 Gesture Control
+*Hands-Free Windows Control*
+
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
+
+**Impact:**
+- Control Windows with hand gestures  
+- No mouse/keyboard needed
+
+</td>
+<td width="50%" align="center">
+
+### 🎙 Voice Assistant
+*Smart Voice Automation*
+
+<img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="250"/>
+
+**Impact:**
+- Automates daily tasks via voice commands  
+- Boosts productivity & accessibility  
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SharathGowdaGR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SharathGowdaGR&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SharathGowdaGR&theme=tokyonight&hide_border=false&layout=compact)  
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<div align="center">
+
+### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<br>
+<code>Keras • OpenCV • HuggingFace • scikit-learn</code>
+
+### 💻 Full Stack Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,express" />
+<br>
+<code>MERN Stack • REST APIs</code>
+
+### ⚙️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" />
+<br>
+<code>Cisco Packet Tracer • N8N • VMs</code>
+
+### 🔌 Other Skills
+<code>Java • C • Verilog • Iverilog • Flash 8.0 • Scratch</code>
+
+</div>
 
 ---
 
-## 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<div align="center">
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathGowdaGR&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" alt="GitHub Streak" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=SharathGowdaGR&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00E7FF&text_color=FFF&icon_color=00E7FF" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharathGowdaGR&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=00E7FF&text_color=FFF" alt="Top Languages" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharathGowdaGR&theme=radical" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharathGowdaGR&bg_color=0D1117&color=00E7FF&line=00E7FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
 
 ---
 
-## 🖤 Fun Extras:
-![Visitor Count](https://komarev.com/ghpvc/?username=SharathGowdaGR&label=Profile%20Views&color=0e75b6&style=flat)  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<h2 align="center">🏆 Achievements & Recognition</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="80"/>
+<br><b>Top 7</b>
+<br>Kalpana Flagship Hackathon
+<br><i>80+ participants</i>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/26ufcVAp3AiInCA9O/giphy.gif" width="80"/>
+<br><b>Top 2</b>
+<br>Bootstrap Hackathon
+<br><i>20+ teams</i>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/l3vRgiN4fSg8NU9y0/giphy.gif" width="80"/>
+<br><b>Workshop</b>
+<br>ML • AWS DevOps
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="80"/>
+<br><b>Problem Solving</b>
+<br>HackerRank DSA
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
+
+</div>
+
+---
+
+## 💭 Fun Extras
+![Visitor Count](https://komarev.com/ghpvc/?username=SharathGowdaGR&style=for-the-badge&color=00E7FF)  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+*"Building the future, one intelligent system at a time"* 🚀
