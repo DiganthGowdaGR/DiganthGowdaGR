@@ -1,22 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sharath GR</h1>
-<h3 align="center">A passionate developer from India</h3>
+<!-- Profile Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sharath%20Gowda%20GR&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20DevOps%20Specialist%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diganthgowdagr&label=Profile%20views&color=0e75b6&style=flat" alt="diganthgowdagr" /> </p>
+## 💫 About Me:
+🎓 **Student @ PES University** – Top 2% in KCET, admitted through merit  
+🏆 **Achievements**:
+- **Top 7** in *Kalpana Flagship Hackathon* (80+ participants)  
+- **Top 2** in *College Bootstrap Hackathon* (20+ teams, built real-world solution in 3 hrs)  
+- Participated in **12hr ML Workshop**, **DevOps on AWS Cloud**, and **HackerRank DSA Problem Solving** challenges  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diganthgowdagr" alt="diganthgowdagr" /></a> </p>
+💡 **Current Focus**: Deep diving into the **AI world**, mastering **ML frameworks**, and contributing to real-world problems  
+🎯 **Fun Fact**: While everyone was doing PUC, I jumped straight into an **Engineering Diploma** because I wanted to truly understand **how computers work**. Now pursuing **CSE** in one of Karnataka’s top 3 colleges.  
 
-- 📫 How to reach me **sharathgowdagr08@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sharath gowda gr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharath gowda gr" height="30" width="40" /></a>
-</p>
+## 🚀 My Projects:
+- **Work-Mithra** – Platform for non-tech people to build a portfolio & showcase skills  
+- **CCFD** – [Short description or leave as is if confidential]  
+- **ExploreWorld** – Discover and explore tourist places around the world  
+- **Gesture Control** – Control Windows completely with hand gestures, no touch  
+- **Voice Assistant** – Smart voice-controlled automation tool  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diganthgowdagr&show_icons=true&locale=en&layout=compact" alt="diganthgowdagr" /></p>
+## 🛠 Skills & Tools:
+**Languages:** Java, Python, C, Verilog  
+**Frameworks/Libraries:** MERN Stack, React.js, Next.js, TensorFlow, PyTorch, Keras, OpenCV, HuggingFace, Scikit-learn  
+**Tools & Platforms:** AWS, Docker, Cisco Packet Tracer, N8N, VS Code, Iverilog, Flash 8.0, Scratch, Virtual Machines  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diganthgowdagr&show_icons=true&locale=en" alt="diganthgowdagr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diganthgowdagr&" alt="diganthgowdagr" /></p>
+## 🎨 Hobbies:
+🖌 Artist – Love drawing anime characters  
+💡 Creative thinker & design enthusiast  
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SharathGowdaGR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=SharathGowdaGR&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SharathGowdaGR&theme=tokyonight&hide_border=false&layout=compact)  
+
+---
+
+## 🔗 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+## 🖤 Fun Extras:
+![Visitor Count](https://komarev.com/ghpvc/?username=SharathGowdaGR&label=Profile%20Views&color=0e75b6&style=flat)  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+---
+
+<!-- Footer Banner -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
