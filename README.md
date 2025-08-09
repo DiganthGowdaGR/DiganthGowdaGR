@@ -13,12 +13,38 @@
 
 ---
 
-## 🚀 Projects:
-- **Work-Mithra** – Build a portfolio without coding skills  
-- **CCFD** – [Confidential/Short desc]  
-- **ExploreWorld** – Travel discovery platform  
-- **Gesture Control** – Hand-gesture-controlled Windows  
-- **Voice Assistant** – Smart voice-based control  
+## 🚀 Featured Projects:
+<table>
+<tr>
+<td width="50%">
+<h3>💼 Work-Mithra</h3>
+<p>Platform for non-tech people to build and showcase portfolios effortlessly.</p>
+<p>Tech: HTML, CSS, JS</p>
+<a href="#"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</td>
+<td width="50%">
+<h3>🌍 ExploreWorld</h3>
+<p>Discover & travel to tourist places all over the world.</p>
+<p>Tech: MERN Stack, Google Maps API</p>
+<a href="#"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>🖐 Gesture Control</h3>
+<p>Control Windows OS entirely using hand gestures — no touch needed!</p>
+<p>Tech: Python, OpenCV, MediaPipe</p>
+<a href="#"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</td>
+<td width="50%">
+<h3>🎙 Voice Assistant</h3>
+<p>Custom-built AI voice assistant for smart controls & automation.</p>
+<p>Tech: Python, SpeechRecognition, Pyttsx3</p>
+<a href="#"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -36,19 +62,19 @@
 ---
 
 ## 📊 GitHub Stats:
-![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharathGowdaGR&show_icons=true&theme=radical&count_private=true)  
-![Sharath's GitHub Streak](https://streak-stats.demolab.com/?user=SharathGowdaGR&theme=radical&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharathGowdaGR&layout=compact&theme=radical)
+![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=radical&count_private=true)  
+![Sharath's GitHub Streak](https://streak-stats.demolab.com/?user=DiganthGowdaGR&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=radical)
 
 ---
 
 ## 📈 Contribution Graph:
-[![Sharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SharathGowdaGR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🖤 Fun Extras:
-![Profile Views](https://komarev.com/ghpvc/?username=SharathGowdaGR&label=Profile%20Views&color=ff69b4&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=DiganthGowdaGR&label=Profile%20Views&color=ff69b4&style=flat)  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ---
