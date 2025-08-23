@@ -16,31 +16,30 @@
 ## 🚀 Featured Projects:
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
   <h3>💼 Work-Mithra</h3>
   <p>Platform for non-tech people to build and showcase portfolios effortlessly.</p>
   <p>Tech: HTML, CSS, JS</p>
-  
-  <!-- Screenshot -->
-  <img src="https://drive.google.com/uc?export=view&id=17kV8kNe3zky4lZWUB0CkdNX9GxIrQCmm" alt="Work-Mithra Screenshot" width="100%" style="border-radius:10px; margin-bottom:10px;" />
-  
-  <!-- GitHub Link Badge -->
-  <a href="https://github.com/YourUsername/Work-Mithra" target="_blank">
-    <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
+  <img src="https://drive.google.com/uc?export=view&id=17kV8kNe3zky4lZWUB0CkdNX9GxIrQCmm" 
+       alt="Work-Mithra Screenshot" width="400" height="250" style="object-fit: cover; border-radius: 10px;"/>
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
   <h3>🌍 ExploreWorld</h3>
   <p>Discover & travel to tourist places all over the world.</p>
   <p>Tech: MERN Stack, Google Maps API</p>
   <img src="https://drive.google.com/uc?export=view&id=1Xv4yRA6IpP1ehI4s8Mx5YoV1yWrheWbg" 
-       alt="ExploreWorld Screenshot" width="400"/>
+       alt="ExploreWorld Screenshot" width="400" height="250" style="object-fit: cover; border-radius: 10px;"/>
   <br><br>
   <a href="https://github.com/DiganthGowdaGR/Tourist-Project.git">
     <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </td>
+
 
 
 
