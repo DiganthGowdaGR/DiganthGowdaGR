@@ -26,9 +26,13 @@
 <h3>🌍 ExploreWorld</h3>
 <p>Discover & travel to tourist places all over the world.</p>
 <p>Tech: MERN Stack, Google Maps API</p>
-<a href="https://github.com/DiganthGowdaGR/Tourist-Project.git"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/DiganthGowdaGR/Tourist-Project.git">
+  <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<br><br>
+<img src="https://drive.google.com/uc?export=view&id=1Xv4yRA6IpP1ehI4s8Mx5YoV1yWrheWbg" alt="ExploreWorld Screenshot" width="400"/>
 </td>
-</tr>
+
 
 <tr>
 <td width="50%">
