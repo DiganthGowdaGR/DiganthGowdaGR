@@ -26,7 +26,7 @@
 <h3>🌍 ExploreWorld</h3>
 <p>Discover & travel to tourist places all over the world.</p>
 <p>Tech: MERN Stack, Google Maps API</p>
-<a href="#"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/DiganthGowdaGR/Tourist-Project.git"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </td>
 </tr>
 
