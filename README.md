@@ -75,11 +75,16 @@
 ---
 
 ## 📊 GitHub Stats:
-![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=radical&count_private=true)  
-![Sharath's GitHub Streak](https://streak-stats.demolab.com/?user=DiganthGowdaGR&theme=radical&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&count_private=true" alt="Sharath's GitHub stats"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=DiganthGowdaGR&theme=gruvbox&hide_border=false" alt="Sharath's GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=gruvbox" alt="Top Languages"/>
+</p>
 
 ---
+
 
 ## 📈 Contribution Graph:
 [![Sharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
