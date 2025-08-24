@@ -20,7 +20,7 @@
   <h3>💼 Work-Mithra</h3>
   <p>Platform for non-tech people to build and showcase portfolios effortlessly.</p>
   <p>Tech: HTML, CSS, JS</p>
-  <img src="https://drive.google.com/uc?export=view&id=17kV8kNe3zky4lZWUB0CkdNX9GxIrQCmm" 
+  <img src="https://drive.google.com/file/d/1pOY23BVtjwm2e4anggL14U8vX3TxBRQz/view?usp=sharing" 
        alt="Work-Mithra Screenshot" width="400" height="250" style="object-fit: cover; border-radius: 10px;"/>
   <br><br>
   <a href="#">
