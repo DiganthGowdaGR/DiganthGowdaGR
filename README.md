@@ -112,6 +112,13 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
   </a>
 </p>
 
+## Well !
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRal6k8sHkM/giphy.gif" width="120"/>
+</p>
+
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:3a0ca3&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
