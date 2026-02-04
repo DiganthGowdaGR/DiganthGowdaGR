@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:ff006e&height=250&section=header&text=Sharath%20Gowda%20GR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20DevOps%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00f5d4&height=260&section=header&text=Sharath%20Gowda%20GR&fontSize=52&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%20Hacker%20%7C%20ML%20Engineer%20%7C%20DevOps%20%7C%20Full%20Stack&descAlignY=58)
+
 
 <!-- AI / Developer Animation (Male / Neutral) -->
 <p align="center">
@@ -9,10 +10,10 @@
 <h2 align="center">Building Intelligent Systems with Practical Impact</h2>
 
 
-## 💫 About Me
-🎓 **Student @ PES University** — Top 2% in KCET (Merit-based admission)  
-💻 Strong interest in **Artificial Intelligence, Machine Learning & DevOps**  
-🚀 Focused on applying technology to solve **real-world problems**
+## About Me
+ **Student @ PES University** — Top 2% in KCET (Merit-based admission)  
+ Strong interest in **Artificial Intelligence, Machine Learning & DevOps**  
+ Focused on applying technology to solve **real-world problems**
 
 🏆 **Achievements**
 - Top 7 – *Kalpana Flagship Hackathon* (80+ participants)  
@@ -27,9 +28,8 @@
 🧠 **Fun Fact**  
 Chose an **Engineering Diploma** after 10th to understand computing fundamentals deeply.
 
----
 
-## 🚀 Featured Projects
+## Featured Projects
 <table>
 <tr>
 <td width="50%" align="center">
@@ -64,14 +64,12 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 </tr>
 </table>
 
----
 
 ## Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mongodb,aws,docker,linux,tensorflow,pytorch&perline=6"/>
 </p>
 
----
 
 ## GitHub Statistics
 <p align="center">
@@ -85,7 +83,7 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&theme=react-dark)
 
 ---
