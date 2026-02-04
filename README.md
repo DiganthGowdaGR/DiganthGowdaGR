@@ -1,72 +1,67 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:ff006e&height=250&section=header&text=Sharath%20Gowda%20GR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20DevOps%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+<!-- ===================== AI THEME GITHUB README ===================== -->
 
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Sharath%20Gowda%20GR&fontSize=52&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20DevOps%20%7C%20Full%20Stack&descAlignY=58)
+
+<!-- AI Hero Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="420"/>
 </p>
 
-<h2 align="center">🚀 Turning Ideas into Real-World Tech</h2>
+<h2 align="center">🤖 Building Intelligent Systems that Solve Real-World Problems</h2>
 
 ---
 
-## 💫 About Me:
-🎓 **Student @ PES University** — *Top 2% in KCET (Merit-based admission)*  
-🧠 **Builder mindset** with a passion for **AI, ML & DevOps**  
-⚡ Obsessed with solving **real-world problems using technology**
+## 🧠 About Me
+🎓 **Student @ PES University** (Top 2% KCET – Merit Admission)  
+🧑‍💻 **AI Engineer in the making** | DevOps | Full-Stack  
+⚡ Turning **data + code** into **impactful AI products**
 
-🏆 **Achievements**  
+🏆 **Achievements**
 - 🥇 **Top 7** – Kalpana Flagship Hackathon (80+ participants)  
-- 🥈 **Top 2** – Bootstrap Hackathon (20+ teams, 3-hour sprint)  
-- 📜 Completed **ML Workshop**, **DevOps on AWS**, **HackerRank DSA**
+- 🥈 **Top 2** – Bootstrap Hackathon (20+ teams, real-world sprint)  
+- 📜 ML Workshop • DevOps on AWS • HackerRank DSA
 
-🎯 **Currently Exploring**
-- Advanced **Machine Learning frameworks**
-- **AI system design** & automation
-- Cloud-native development
+🔬 **Currently Working On**
+- Deep Learning & ML frameworks  
+- AI system design & automation  
+- Cloud-native AI pipelines
 
 🧩 **Fun Fact**  
-Skipped PUC → jumped straight into an **Engineering Diploma** just to understand computers *from the ground up* 😄
+Skipped PUC → chose an **Engineering Diploma** to learn computers from the core ⚙️
 
 ---
 
-## 🚀 Featured Projects:
+## 🚀 AI-Powered Projects
 <table>
 <tr>
 <td width="50%" align="center">
   <h3>💼 Work-Mithra</h3>
-  <p>Empowering non-tech professionals to build & showcase portfolios effortlessly.</p>
+  <p>AI-friendly portfolio platform for non-tech professionals.</p>
   <p><b>Tech:</b> HTML, CSS, JavaScript</p>
-  <img src="https://drive.google.com/uc?export=view&id=1pOY23BVtjwm2e4anggL14U8vX3TxBRQz" 
-       width="400" height="250" style="object-fit: cover; border-radius: 12px;"/>
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img src="https://drive.google.com/uc?export=view&id=1pOY23BVtjwm2e4anggL14U8vX3TxBRQz"
+       width="400" style="border-radius:14px"/>
 </td>
 
 <td width="50%" align="center">
   <h3>🌍 ExploreWorld</h3>
-  <p>Explore & plan travel destinations across the globe.</p>
-  <p><b>Tech:</b> MERN Stack, Google Maps API</p>
-  <img src="https://drive.google.com/uc?export=view&id=1Xv4yRA6IpP1ehI4s8Mx5YoV1yWrheWbg" 
-       width="400" height="250" style="object-fit: cover; border-radius: 12px;"/>
-  <br><br>
-  <a href="https://github.com/DiganthGowdaGR/Tourist-Project.git">
-    <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <p>Smart travel discovery using maps & real-time data.</p>
+  <p><b>Tech:</b> MERN, Google Maps API</p>
+  <img src="https://drive.google.com/uc?export=view&id=1Xv4yRA6IpP1ehI4s8Mx5YoV1yWrheWbg"
+       width="400" style="border-radius:14px"/>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3>🖐 Gesture-Controlled OS</h3>
-<p>Control Windows OS entirely using hand gestures — zero touch.</p>
+<h3>🖐 AI Gesture Control</h3>
+<p>Control Windows OS using computer vision & hand gestures.</p>
 <p><b>Tech:</b> Python, OpenCV, MediaPipe</p>
 </td>
 
 <td width="50%">
 <h3>🎙 AI Voice Assistant</h3>
-<p>Custom voice assistant for smart automation & system control.</p>
+<p>Voice-controlled intelligent automation assistant.</p>
 <p><b>Tech:</b> Python, SpeechRecognition, Pyttsx3</p>
 </td>
 </tr>
@@ -74,45 +69,51 @@ Skipped PUC → jumped straight into an **Engineering Diploma** just to understa
 
 ---
 
-## 🛠 Tech Stack:
+## 🛠 AI & Dev Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,mongodb,aws,docker,tensorflow,pytorch,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mongodb,aws,docker,linux,tensorflow,pytorch&perline=6"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 AI Developer Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=DiganthGowdaGR&theme=gruvbox" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=DiganthGowdaGR&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=gruvbox"/>
-</p>
-
----
-
-## 📈 Contribution Graph:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&theme=react-dark)
-
----
-
-## 🖤 Fun Extras:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DiganthGowdaGR&label=Profile%20Views&color=ff69b4&style=flat"/>
-  <br><br>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-<h3 align="center">🤝 Let’s Build Something Impactful</h3>
+## 📈 Neural Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&theme=tokyo-night)
+
+---
+
+## 🧬 AI Stickers Zone
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-AI%20Engineer-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DiganthGowdaGR&label=AI%20Profile%20Views&color=00f5d4"/>
+</p>
+
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:3a0ca3&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer)
+
+<!-- ===================== END ===================== -->
