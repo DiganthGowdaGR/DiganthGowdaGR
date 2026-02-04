@@ -115,7 +115,6 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 ## Well !
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
 </p>
 
