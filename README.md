@@ -8,7 +8,6 @@
 
 <h2 align="center">Building Intelligent Systems with Practical Impact</h2>
 
----
 
 ## 💫 About Me
 🎓 **Student @ PES University** — Top 2% in KCET (Merit-based admission)  
@@ -67,14 +66,14 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mongodb,aws,docker,linux,tensorflow,pytorch&perline=6"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&count_private=true" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=DiganthGowdaGR&theme=gruvbox" height="170"/>
@@ -91,16 +90,30 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="110"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DiganthGowdaGR&label=Profile%20Views&color=ff69b4"/>
+  Open to collaborations, internships, and learning opportunities in AI, ML, and software development.
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://your-portfolio-link">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:3a0ca3&height=120&section=footer)
