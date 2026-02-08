@@ -1,19 +1,19 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00f5d4&height=260&section=header&text=Sharath%20Gowda%20GR&fontSize=52&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%20Hacker%20%7C%20ML%20Engineer%20%7C%20DevOps%20%7C%20Full%20Stack&descAlignY=58)
 
-
-<!-- AI / Developer Animation (Male / Neutral) -->
+<!-- AI / Developer Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360"/>
 </p>
 
 <h2 align="center">Building Intelligent Systems with Practical Impact</h2>
 
+---
 
-## About Me
- **Student @ PES University** — Top 2% in KCET (Merit-based admission)  
- Strong interest in **Artificial Intelligence, Machine Learning & DevOps**  
- Focused on applying technology to solve **real-world problems**
+## 👋 About Me
+**Student @ PES University** — Top 2% in KCET (Merit-based admission)  
+Strong interest in **Artificial Intelligence, Machine Learning & DevOps**  
+Focused on applying technology to solve **real-world problems**
 
 🏆 **Achievements**
 - Top 7 – *Kalpana Flagship Hackathon* (80+ participants)  
@@ -23,29 +23,28 @@
 🎯 **Current Focus**
 - Machine Learning & Deep Learning frameworks  
 - AI-driven system development  
-- Cloud-native application design
+- Cloud-native application design  
 
 🧠 **Fun Fact**  
 Chose an **Engineering Diploma** after 10th to understand computing fundamentals deeply.
 
+---
 
-## Featured Projects
+## 🚀 Featured Projects
 <table>
 <tr>
 <td width="50%" align="center">
   <h3>💼 Work-Mithra</h3>
   <p>A platform enabling non-technical professionals to build and showcase portfolios.</p>
   <p><b>Tech:</b> HTML, CSS, JavaScript</p>
-  <img src="https://drive.google.com/uc?export=view&id=1pOY23BVtjwm2e4anggL14U8vX3TxBRQz"
-       width="400" style="border-radius:12px"/>
+  <img src="https://drive.google.com/uc?export=view&id=1pOY23BVtjwm2e4anggL14U8vX3TxBRQz" width="400" style="border-radius:12px"/>
 </td>
 
 <td width="50%" align="center">
   <h3>🌍 ExploreWorld</h3>
   <p>Discover and explore tourist destinations using interactive maps.</p>
   <p><b>Tech:</b> MERN Stack, Google Maps API</p>
-  <img src="https://drive.google.com/uc?export=view&id=1Xv4yRA6IpP1ehI4s8Mx5YoV1yWrheWbg"
-       width="400" style="border-radius:12px"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Xv4yRA6IpP1ehI4s8Mx5YoV1yWrheWbg" width="400" style="border-radius:12px"/>
 </td>
 </tr>
 
@@ -64,32 +63,85 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 </tr>
 </table>
 
+---
 
-## Skills & Tools
+## 🛠 Skill Stack (Capability-Driven)
+
+### 🤖 Artificial Intelligence & Machine Learning
+- Machine Learning (model training, evaluation, optimization)
+- Deep Learning (CNNs, real-time inference)
+- Computer Vision (gesture recognition, anomaly detection)
+- Frameworks: TensorFlow, PyTorch, OpenCV, MediaPipe
+
+### ☁️ Cloud & DevOps
+- AWS Cloud (EC2, S3, IAM)
+- Containerization & deployment using Docker
+- Linux-based automation & CI/CD workflows
+- Scalable deployment for AI workloads
+
+### 🌐 Full Stack & Systems
+- Frontend: React, JavaScript (interactive dashboards)
+- Backend: Node.js, REST APIs
+- Database: MongoDB
+- OS & Networking fundamentals
+
+### 🧠 Programming Foundations
+- Python (AI, automation, scripting)
+- Java (OOP, DSA)
+- C (low-level & OS concepts)
+
+---
+
+## 🔧 Tools I Actually Use
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mongodb,aws,docker,linux,tensorflow,pytorch&perline=6"/>
 </p>
 
-
-## GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=DiganthGowdaGR&theme=gruvbox" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=gruvbox"/>
+  <i>Tools I use to build, deploy, and scale real systems — not just demos.</i>
 </p>
 
 ---
 
-## Contribution Graph
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiganthGowdaGR&theme=gruvbox&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&custom_title=Engineering%20Activity"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DiganthGowdaGR&theme=gruvbox&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Language Usage Intelligence
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=donut&theme=gruvbox&hide_border=true"/>
+</p>
+
+<p align="center">
+  <i>Languages reflect real-world projects, automation scripts, and AI systems.</i>
+</p>
+
+---
+
+## 🚀 Engineering Consistency
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&theme=react-dark)
 
 ---
 
-## 🤝 Let’s Connect
+## 🧭 Engineering Philosophy
+> I focus on building systems that work in real conditions —  
+> performance, scalability, and usability matter more than buzzwords.
 
+---
+
+## 🤝 Let’s Connect
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="110"/>
 </p>
@@ -112,7 +164,8 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
   </a>
 </p>
 
-## Well !
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/>
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
