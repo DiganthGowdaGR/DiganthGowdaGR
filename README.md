@@ -65,28 +65,54 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 </table>
 
 
-## Skills & Tools
+---
+
+## 🧠 Skills & Tools
+
+### 🤖 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mongodb,aws,docker,linux,tensorflow,pytorch&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=6"/>
 </p>
 
-
-## GitHub Statistics
+### ☁️ Cloud / DevOps
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=DiganthGowdaGR&theme=gruvbox" height="170"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux&perline=6"/>
 </p>
 
+### 🌐 Full Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=gruvbox"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css&perline=6"/>
+</p>
+
+### ⚙️ Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c&perline=6"/>
 </p>
 
 ---
 
-## Contribution Graph
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiganthGowdaGR&theme=gruvbox&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=DiganthGowdaGR&theme=gruvbox&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=gruvbox&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&theme=react-dark)
 
 ---
+
 
 ## 🤝 Let’s Connect
 
