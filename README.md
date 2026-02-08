@@ -64,7 +64,6 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 </tr>
 </table>
 
----
 
 ## Skills & Tools
 
@@ -88,7 +87,6 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
   <img src="https://skillicons.dev/icons?i=java,c&theme=dark"/>
 </p>
 
----
 
 ## GitHub Stats
 
@@ -109,12 +107,9 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 </p>
 
 
----
-
 ## Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&theme=react-dark)
 
----
 
 ## 🤝 Let’s Connect
 
@@ -148,8 +143,3 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
-
-
-In this can u improve github stats section and 
-
-skills and tools based on something unique way ?
