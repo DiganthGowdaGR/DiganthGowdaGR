@@ -64,22 +64,50 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
 </tr>
 </table>
 
+---
 
 ## Skills & Tools
+
+<h3 align="center">AI / ML</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mongodb,aws,docker,linux,tensorflow,pytorch&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark"/>
 </p>
 
-
-## GitHub Statistics
+<h3 align="center">Cloud / DevOps</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=DiganthGowdaGR&theme=gruvbox" height="170"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark"/>
+</p>
+
+<h3 align="center">Full Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb&theme=dark"/>
+</p>
+
+<h3 align="center">Programming</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c&theme=dark"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&hide_border=true&border_radius=18"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=gruvbox"/>
+  <img src="https://streak-stats.demolab.com?user=DiganthGowdaGR&theme=gruvbox&hide_border=true&border_radius=18"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=donut&theme=gruvbox&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiganthGowdaGR&theme=gruvbox&no-frame=true&row=1&column=6"/>
+</p>
+
 
 ---
 
