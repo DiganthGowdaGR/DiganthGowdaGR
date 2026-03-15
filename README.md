@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00f5d4&height=260&section=header&text=Sharath%20Gowda%20GR&fontSize=52&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%20Hacker%20%7C%20ML%20Engineer%20%7C%20DevOps%20%7C%20Full%20Stack&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00f5d4&height=260&section=header&text=Sharath%20Gowda%20GR&fontSize=52&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20DevOps%20%7C%20Full%20Stack&descAlignY=58)
 
 
 <!-- AI / Developer Animation (Male / Neutral) -->
