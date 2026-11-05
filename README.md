@@ -1,162 +1,189 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00f5d4&height=260&section=header&text=Sharath%20Gowda%20GR&fontSize=52&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20DevOps%20%7C%20Full%20Stack&descAlignY=58)
 
-<!-- Typing intro -->
 <p align="center">
   <a href="https://sharath-gr.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+with+Practical+Impact;AI+%7C+Machine+Learning+%7C+Computer+Vision;Cloud-Native+%26+DevOps+Enthusiast;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=FF2E97&center=true&vCenter=true&width=720&lines=%3E+Building+intelligent+systems+%F0%9F%A7%A0;%3E+Training+models.+Shipping+products.+%F0%9F%9A%80;%3E+Computer+Vision+%C2%B7+ML+%C2%B7+DevOps+%C2%B7+Cloud;%3E+Currently%3A+hunting+for+internships+%F0%9F%91%80" alt="typing intro"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Coding animation"/>
+  <a href="https://sharath-gr.vercel.app"><img src="https://img.shields.io/badge/⚡_PORTFOLIO-sharath--gr.vercel.app-00f5d4?style=for-the-badge&labelColor=0a0f1c"/></a>
+  <img src="https://komarev.com/ghpvc/?username=DiganthGowdaGR&label=VISITORS&color=ff2e97&style=for-the-badge&labelColor=0a0f1c" alt="visitors"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-fee440?style=for-the-badge&labelColor=0a0f1c"/>
 </p>
 
 <p align="center">
-  <a href="https://sharath-gr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sharath--gr.vercel.app-00f5d4?style=flat-square&logo=vercel&logoColor=black"/></a>
-  <img src="https://komarev.com/ghpvc/?username=DiganthGowdaGR&label=Profile%20Views&color=0f2027&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=flat-square"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="340"/>
 </p>
 
----
+<!-- ============ ABOUT ============ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,100:0a0f1c&height=46&section=header&text=%3E%20about_me&fontSize=22&fontColor=0a0f1c&fontAlign=12&fontAlignY=55" width="100%"/>
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-```yaml
-name:      Sharath Gowda GR
-education: Student @ PES University
-admission: Top 2% in KCET (merit-based)
-interests: [Artificial Intelligence, Machine Learning, DevOps, Cloud]
-mission:   Applying technology to solve real-world problems
-fun_fact:  Chose an Engineering Diploma after 10th to learn computing fundamentals deeply
+```bash
+sharath@pes:~$ whoami
+> Sharath Gowda GR — Engineering student @ PES University
+
+sharath@pes:~$ cat rank.txt
+> 🏅 Top 2% in KCET (merit-based admission)
+
+sharath@pes:~$ ls ./interests
+> artificial-intelligence  machine-learning  devops  cloud
+
+sharath@pes:~$ cat origin_story.md
+> Chose an Engineering Diploma after 10th
+> to learn computing from the metal up 🔩
+
+sharath@pes:~$ echo $MISSION
+> Build intelligent systems with real-world impact ⚡
 ```
 
-### 🏆 Achievements
-| Event | Result |
-|---|---|
-| Kalpana Flagship Hackathon | 🥇 **Top 7** out of 80+ participants |
-| Bootstrap Hackathon | 🥈 **Top 2** out of 20+ teams (time-bound build) |
-| Certifications | ML Workshop · DevOps on AWS · HackerRank DSA |
+</td>
+<td width="42%" valign="top" align="center">
 
-### 🎯 Current Focus
-- 🧠 Machine Learning & Deep Learning frameworks
-- 🤖 AI-driven system development
-- ☁️ Cloud-native application design
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=600&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=90&lines=%F0%9F%8E%AF+CURRENT+FOCUS;Machine+%26+Deep+Learning;AI-driven+systems;Cloud-native+design" />
 
----
+<br/>
 
-## 🚀 Featured Projects
+<img src="https://img.shields.io/badge/🧠_ML_&_DL-learning-00f5d4?style=flat-square&labelColor=0a0f1c"/>
+<img src="https://img.shields.io/badge/🤖_AI_Systems-building-ff2e97?style=flat-square&labelColor=0a0f1c"/>
+<img src="https://img.shields.io/badge/☁️_Cloud_Native-exploring-fee440?style=flat-square&labelColor=0a0f1c"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ============ ACHIEVEMENTS ============ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fee440,100:0a0f1c&height=46&section=header&text=%3E%20achievements.unlocked&fontSize=22&fontColor=0a0f1c&fontAlign=20&fontAlignY=55" width="100%"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_TOP_7-Kalpana_Flagship_Hackathon_·_80%2B_participants-00f5d4?style=for-the-badge&labelColor=0a0f1c"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🥈_TOP_2-Bootstrap_Hackathon_·_20%2B_teams-ff2e97?style=for-the-badge&labelColor=0a0f1c"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🎓_TOP_2%25-KCET_Rank_·_Merit_Admission-fee440?style=for-the-badge&labelColor=0a0f1c"/>
+  <br/>
+  <img src="https://img.shields.io/badge/📜_CERTIFIED-ML_Workshop_·_DevOps_on_AWS_·_HackerRank_DSA-9b5cff?style=for-the-badge&labelColor=0a0f1c"/>
+</p>
+
+<!-- ============ PROJECTS ============ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:0a0f1c&height=46&section=header&text=%3E%20featured_projects&fontSize=22&fontColor=0a0f1c&fontAlign=16&fontAlignY=55" width="100%"/>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-  <h3>💼 Work-Mithra</h3>
-  <p>A platform that helps non-technical professionals build and showcase their portfolios.</p>
-  <img src="https://drive.google.com/uc?export=view&id=1pOY23BVtjwm2e4anggL14U8vX3TxBRQz" width="380" alt="Work-Mithra preview"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</td>
 
+### 💼 Work-Mithra
+<img src="https://img.shields.io/badge/WEB_PLATFORM-00f5d4?style=flat-square&labelColor=0a0f1c"/>
+
+*Portfolio builder for non-technical professionals — show your work, no code needed.*
+
+<img src="https://drive.google.com/uc?export=view&id=1pOY23BVtjwm2e4anggL14U8vX3TxBRQz" width="95%"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="34"/>
+
+</td>
 <td width="50%" align="center" valign="top">
-  <h3>🌍 ExploreWorld</h3>
-  <p>Discover and explore tourist destinations through interactive maps.</p>
-  <img src="https://drive.google.com/uc?export=view&id=1Xv4yRA6IpP1ehI4s8Mx5YoV1yWrheWbg" width="380" alt="ExploreWorld preview"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+### 🌍 ExploreWorld
+<img src="https://img.shields.io/badge/MERN_STACK-fee440?style=flat-square&labelColor=0a0f1c"/>
+
+*Discover tourist destinations on interactive, explorable maps.*
+
+<img src="https://drive.google.com/uc?export=view&id=1Xv4yRA6IpP1ehI4s8Mx5YoV1yWrheWbg" width="95%"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,gcp&theme=dark" height="34"/>
+
 </td>
 </tr>
-
 <tr>
 <td width="50%" align="center" valign="top">
-  <h3>🖐 Gesture Control System</h3>
-  <p>Hands-free control of Windows using real-time computer vision hand tracking.</p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
-</td>
 
+### 🖐️ Gesture Control System
+<img src="https://img.shields.io/badge/COMPUTER_VISION-ff2e97?style=flat-square&labelColor=0a0f1c"/>
+
+*Control Windows hands-free with real-time hand tracking — wave, pinch, done.*
+
+<img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" height="34"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" height="34"/>
+
+</td>
 <td width="50%" align="center" valign="top">
-  <h3>🎙 Voice Assistant</h3>
-  <p>Custom AI voice assistant for automation and system interaction.</p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpeechRecognition-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/pyttsx3-306998?style=flat-square"/>
+
+### 🎙️ Voice Assistant
+<img src="https://img.shields.io/badge/AI_·_AUTOMATION-9b5cff?style=flat-square&labelColor=0a0f1c"/>
+
+*Your own Jarvis-style assistant that runs your system by voice.*
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="34"/>
+<img src="https://img.shields.io/badge/SpeechRecognition-FF6F00?style=for-the-badge" height="34"/>
+<img src="https://img.shields.io/badge/pyttsx3-306998?style=for-the-badge" height="34"/>
+
 </td>
 </tr>
 </table>
 
 <p align="center">
   <a href="https://sharath-gr.vercel.app">
-    <img src="https://img.shields.io/badge/See%20all%20projects%20on%20my%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00f5d4"/>
+    <img src="https://img.shields.io/badge/▶_EXPLORE_ALL_PROJECTS-ff2e97?style=for-the-badge&labelColor=0a0f1c"/>
   </a>
 </p>
 
----
-
-## 🛠 Skills & Tools
-
-| Domain | Stack |
-|---|---|
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark"/> |
-| **Cloud / DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=dark"/> |
-| **Full Stack** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb&theme=dark"/> |
-| **Programming** | <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark"/> |
-
----
-
-## 📊 GitHub Stats
+<!-- ============ STACK ============ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9b5cff,100:0a0f1c&height=46&section=header&text=%3E%20tech_arsenal&fontSize=22&fontColor=0a0f1c&fontAlign=13&fontAlignY=55" width="100%"/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&theme=gruvbox&hide_border=true&border_radius=18&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=gruvbox&hide_border=true&border_radius=18"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,docker,linux,git&perline=8&theme=dark"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c&perline=9&theme=dark"/>
+</p>
+
+<!-- ============ STATS ============ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,100:0a0f1c&height=46&section=header&text=%3E%20github_stats&fontSize=22&fontColor=0a0f1c&fontAlign=13&fontAlignY=55" width="100%"/>
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=DiganthGowdaGR&show_icons=true&hide_border=true&border_radius=16&bg_color=0a0f1c&title_color=00f5d4&icon_color=ff2e97&text_color=c9d1d9&count_private=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&hide_border=true&border_radius=16&bg_color=0a0f1c&title_color=00f5d4&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DiganthGowdaGR&theme=gruvbox&hide_border=true&border_radius=18"/>
+  <img src="https://streak-stats.demolab.com?user=DiganthGowdaGR&hide_border=true&border_radius=16&background=0a0f1c&ring=ff2e97&fire=fee440&currStreakNum=00f5d4&sideNums=00f5d4&currStreakLabel=ff2e97&sideLabels=c9d1d9&dates=8193ab&stroke=1f2a40"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiganthGowdaGR&theme=gruvbox&no-frame=true&row=1&column=6"/>
-</p>
-
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&theme=react-dark&hide_border=true)
-
----
-
-## 🤝 Let’s Connect
-
-<p align="center">
-  Open to <b>collaborations</b>, <b>internships</b>, and <b>learning opportunities</b> in AI, ML, and software development.
+  <img src="https://github-profile-trophy.vercel.app/?username=DiganthGowdaGR&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
 </p>
 
 <p align="center">
-  <a href="https://sharath-gr.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00f5d4?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/DiganthGowdaGR">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiganthGowdaGR&bg_color=0a0f1c&color=c9d1d9&line=00f5d4&point=ff2e97&area=true&area_color=00f5d4&hide_border=true&radius=16"/>
+</p>
+
+<!-- ============ CONNECT ============ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:0a0f1c&height=46&section=header&text=%3E%20let's_connect&fontSize=22&fontColor=0a0f1c&fontAlign=13&fontAlignY=55" width="100%"/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="90"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="110"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="110"/>
+  <a href="https://sharath-gr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=0a0f1c"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-ff2e97?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/DiganthGowdaGR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⭐ Thanks for stopping by — have a great day!</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8193AB&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling+this+far+%E2%9C%A8;Let's+build+something+awesome+together.;Collabs+%C2%B7+Internships+%C2%B7+Hackathons+%E2%80%94+DMs+open!" alt="outro"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+</p>
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
