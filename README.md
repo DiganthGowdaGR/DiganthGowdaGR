@@ -131,7 +131,7 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
   </a>
   &nbsp;
   <a href="https://your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github"/>
+    <img src"https://sharath-gr.vercel.app/"/>
   </a>
 </p>
 
