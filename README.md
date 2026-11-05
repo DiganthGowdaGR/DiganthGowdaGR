@@ -131,7 +131,7 @@ Chose an **Engineering Diploma** after 10th to understand computing fundamentals
   </a>
   &nbsp;
   <a href="https://your-portfolio-link">
-    <img src"https://sharath-gr.vercel.app/"/>
+    <img src="https://sharath-gr.vercel.app"/>
   </a>
 </p>
 
